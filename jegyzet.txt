@@ -1,0 +1,12 @@
+Lépések:
+1. https://www.xltrail.com/client oldalról letölteni és installálni a cuccout
+2. cmd-ben globálisan is installálni a C:\>git xltrail install paranccsal
+3. Aktuális repoban is installálni a C:\Repository>git xltrail install --local paranccsal
+
+Command lineban az aktuális állás és a legfrisebb szerven lévõ verzió között a -git diff parancsal meg lehet nézni a különbséget
+
+Ez csak a makró fájlokban mutatja a különbséget.
+
+Spredsheet Compareval folytatni:
+
+--> https://www.xltrail.com/blog/git-diff-spreadsheetcompare
